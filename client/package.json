@@ -16,7 +16,7 @@
     "@stripe/react-stripe-js": "^1.1.2",
     "@stripe/stripe-js": "^1.8.0",
     "@types/classnames": "^2.2.11",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "classnames": "^2.2.6",
     "formik": "^2.1.2",
     "framer-motion": "^2.1.0",
